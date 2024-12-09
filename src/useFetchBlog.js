@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 
+// This is custom useHooks
 const useFetchBlog = (url) => {
     const [blogs, setBlogs] = useState(null)
     const [isPending, setPending] = useState(true)
