@@ -1,0 +1,28 @@
+{
+    "blogs": [
+        {
+            "title": "My first blog",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, omnis.",
+            "author": "Mario",
+            "id": 1
+        },
+        {
+            "title": "Hello world!",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, omnis.",
+            "author": "Yoshi",
+            "id": 2
+        },
+        {
+            "title": "Eternal blog",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, omnis.",
+            "author": "Gorilla",
+            "id": 3
+        },
+        {
+            "title": "Missing Home",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, omnis.",
+            "author": "Peter",
+            "id": 4
+        }
+    ]
+}
